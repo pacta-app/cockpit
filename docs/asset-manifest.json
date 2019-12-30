@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/cockpit/static/css/main.d1b05096.chunk.css",
+    "main.js": "/cockpit/static/js/main.4f405f6e.chunk.js",
+    "main.js.map": "/cockpit/static/js/main.4f405f6e.chunk.js.map",
+    "runtime-main.js": "/cockpit/static/js/runtime-main.ff7a7f13.js",
+    "runtime-main.js.map": "/cockpit/static/js/runtime-main.ff7a7f13.js.map",
+    "static/js/2.feedd2f1.chunk.js": "/cockpit/static/js/2.feedd2f1.chunk.js",
+    "static/js/2.feedd2f1.chunk.js.map": "/cockpit/static/js/2.feedd2f1.chunk.js.map",
+    "index.html": "/cockpit/index.html",
+    "precache-manifest.158ce00b559b2ff49aa3a60d56b4055f.js": "/cockpit/precache-manifest.158ce00b559b2ff49aa3a60d56b4055f.js",
+    "service-worker.js": "/cockpit/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/cockpit/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.feedd2f1.chunk.js.LICENSE": "/cockpit/static/js/2.feedd2f1.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ff7a7f13.js",
+    "static/js/2.feedd2f1.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.4f405f6e.chunk.js"
+  ]
+}
